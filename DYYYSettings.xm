@@ -3696,6 +3696,12 @@ void showDYYYSettingsVC(UIViewController *rootVC, BOOL hasAgreed) {
             @"detail" : @"",
             @"cellType" : @6,
             @"imageName" : @"ic_eyeslash_outlined_16"},
+          @{@"identifier" : @"DYYYHideChapterPoints",
+            @"title" : @"隐藏章节要点",
+            @"subTitle" : @"隐藏昵称旁边的章节要点按钮",
+            @"detail" : @"",
+            @"cellType" : @6,
+            @"imageName" : @"ic_eyeslash_outlined_16"},
           @{
               @"identifier" : @"DYYYHidePendantGroup",
               @"title" : @"隐藏红包悬浮",
